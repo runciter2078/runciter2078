@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://pabloberet.com/wp-content/uploads/2024/07/MG_0456-1-2048x1389.jpg" alt="Foto de perfil" width="350" style="border-radius:50%;" />
+</p>
 
-<!--
-**runciter2078/runciter2078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy **Pablo Beret**
 
-Here are some ideas to get you started:
+Candidato a Doctorado en Ciencia de Datos e Inteligencia Artificial · Data Scientist · Ingeniero Electrónico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 **¿En qué trabajo?**  
+- 📊 Ciencia de Datos & Machine Learning  
+- 🤖 Interacción Humano–Robot (HRI)  
+- 💬 Modelos de Lenguaje (LLMs/VLMs)  
+- 🧠 Redes Neuronales & IA Generativa
+
+---
+
+🎾 **Aficiones**  
+- ♟️ Juego del Go  
+- ⚽ Real Betis Balompié  
+- 🎶 Música de Mike Oldfield  
+- 🏞️ Senderismo & Astronomía  
+- 🏓 Pádel & 🎯 Arco Olímpico  
+- 📚 Lectura: ciencia ficción, fantasía, biografías y ensayos
+
+---
+
+📫 **Conecta conmigo**  
+- 🌐 [pabloberet.com](https://pabloberet.com/)  
+- 🐦 [@pablobgp](https://x.com/pablobgp)
