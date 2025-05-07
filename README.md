@@ -4,7 +4,7 @@
 
 # 👋 ¡Hola! Soy **Pablo Beret**
 
-Candidato a Doctorado en Ciencia de Datos e Inteligencia Artificial · Data Scientist · Ingeniero Electrónico
+Candidato a doctor en Ciencia de Datos e Inteligencia Artificial · Data Scientist · Ingeniero Electrónico
 
 ---
 
