@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://pabloberet.com/wp-content/uploads/2024/07/MG_0456-1-2048x1389.jpg" alt="Foto de perfil" width="350" style="border-radius:50%;" />
+  <img src="https://i.imgur.com/8sOIqkK.jpeg" alt="Foto de perfil" width="450" style="border-radius:50%;" />
 </p>
 
-# 👋 ¡Hola! Soy **Pablo Beret**
+# 👋 ¡Hola! Soy **Pablo Beret Grande**
 
-Candidato a doctor en Ciencia de Datos e Inteligencia Artificial · Data Scientist · Ingeniero Electrónico
+Candidato a doctor en Ciencia de Datos e Inteligencia Artificial · Máster en Big Data y Ciencia de Datos · Graduado en Ingeniería Electrónica
 
 ---
 
@@ -12,20 +12,26 @@ Candidato a doctor en Ciencia de Datos e Inteligencia Artificial · Data Scienti
 - 📊 Ciencia de Datos & Machine Learning  
 - 🤖 Interacción Humano–Robot (HRI)  
 - 💬 Modelos de Lenguaje (LLMs/VLMs)  
-- 🧠 Redes Neuronales & IA Generativa
+- 🧠 Redes Neuronales & IA Generativa  
+- 🌫️ Lógica Difusa para fusión de información  
+- 🎭 Reconocimiento Multimodal de Emociones  
 
 ---
 
 🎾 **Aficiones**  
-- ♟️ Juego del Go  
+- ⚫ Juego del Go  
 - ⚽ Real Betis Balompié  
 - 🎶 Música de Mike Oldfield  
-- 🏞️ Senderismo & Astronomía  
-- 🏓 Pádel & 🎯 Arco Olímpico  
-- 📚 Lectura: ciencia ficción, fantasía, biografías y ensayos
+- 🏞️ Senderismo  
+- 🔭 Astronomía  
+- 🏓 Pádel
+- 🎯 Arco Olímpico
+- 🏃‍♂️ Running    
+- 📚 Lectura: ciencia ficción, fantasía, biografías y ensayos  
 
 ---
 
-📫 **Conecta conmigo**  
+  📫 **Conecta conmigo**  
 - 🌐 [pabloberet.com](https://pabloberet.com/)  
-- 🐦 [@pablobgp](https://x.com/pablobgp)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pabloberet/)  
+- [![X @pablobgp](https://img.shields.io/badge/X-@pablobgp-%231DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/pablobgp)
