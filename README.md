@@ -4,7 +4,7 @@
 
 # 👋 ¡Hola! Soy **Pablo Beret Grande**
 
-Candidato a doctor en Ciencia de Datos e Inteligencia Artificial · Máster en Big Data y Ciencia de Datos · Graduado en Ingeniería Electrónica
+Candidato a doctor en Ciencia de Datos e Inteligencia Artificial (VIU) · Máster en Big Data y Ciencia de Datos (VIU) · Graduado en Ingeniería Electrónica (U. Nebrija) · Ingeniero Técnico Industrial (U. Sevilla)
 
 ---
 
@@ -19,16 +19,17 @@ Candidato a doctor en Ciencia de Datos e Inteligencia Artificial · Máster en B
 ---
 
 🎾 **Aficiones**  
-- ⚫ Juego del Go  
+- ⚫ Juego del Go (a.k.a. Baduk/Weiqi) 
 - ⚽ Real Betis Balompié  
 - 🎶 Música de Mike Oldfield  
 - 🏞️ Senderismo  
 - 🔭 Astronomía  
 - 🏓 Pádel
 - 🎯 Arco Olímpico
-- 🏃‍♂️ Running    
-- 📚 Lectura: ciencia ficción, fantasía, biografías y ensayos  
-
+- 🏃‍♂️ Running (cada vez menos)   
+- 📚 Lectura: ciencia ficción, fantasía, biografías y ensayos
+- 🏺 Historia antigua y civilizaciones del pasado
+  
 ---
 
   📫 **Conecta conmigo**  
