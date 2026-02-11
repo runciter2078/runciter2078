@@ -10,7 +10,7 @@ Candidato a doctor en Ciencia de Datos e Inteligencia Artificial (VIU) · Máste
 
 💡 **¿En qué trabajo?**  
 - 📊 Ciencia de Datos & Machine Learning  
-- 🤖 Interacción Humano–Robot (HRI)  
+- 🤖 Interacción Humano-Robot (HRI)  
 - 💬 Modelos de Lenguaje (LLMs/VLMs)  
 - 🧠 Redes Neuronales & IA Generativa  
 - 🌫️ Lógica Difusa para fusión de información  
@@ -18,7 +18,7 @@ Candidato a doctor en Ciencia de Datos e Inteligencia Artificial (VIU) · Máste
 
 ---
 
-🎾 **Aficiones**  
+🎾 **Aficiones y deportes**  
 - ⚫ Juego del Go (a.k.a. Baduk/Weiqi) 
 - ⚽ Real Betis Balompié  
 - 🎶 Música de Mike Oldfield  
