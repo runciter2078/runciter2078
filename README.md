@@ -25,7 +25,6 @@ Candidato a doctor en Ciencia de Datos e Inteligencia Artificial (VIU) · Máste
 - 🏞️ Senderismo  
 - 🔭 Astronomía  
 - 🏓 Pádel
-- 🎯 Arco Olímpico
 - ⚔️ Warhammer 40k 
 - 📚 Lectura: ciencia ficción, fantasía, biografías y ensayos
 - 🏺 Historia antigua y civilizaciones del pasado
